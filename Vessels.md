@@ -4,6 +4,7 @@ A glass jar will suffice as a vessel for most ferments.
  
 * Differently shaped vessels offer different functional benefits and challenges. For a solid food, like sauerkraut, 
 a wide mouth is important, wide enough to get your hand or a tool inside.
+
 * For aerobic processes such as making kombucha or vinegar, in which the fermentation is most active at the surface 
 where access to oxygen is greatest, you also want a wide vessel. Once wines or meads are vigorously bubbling, if you 
 wish to ferment to dryness, move them to narrow-necked vessels, fairly full, with an air lock, so as to minimize surface 
@@ -35,6 +36,7 @@ For fermenting at a larger scale, ceramic crocks are generally used.
 Old crocks might cause lead leaching into food from old glazes.
 
 Crock Lids
+
 A crock may or may not have a lid; or may, in fact, have two.
 If you use rocks, be sure to use hard smooth ones that are not limestone, which can dissolve in an acidic environment.
  
@@ -46,6 +48,7 @@ Functionally, this is an excellent solution; the only drawback is that it brings
 
 
 Different Crock Designs
+
 The Korean tradition of ceramic fermentation crocks is called onggi.
 there is no single method or vessel or style for fermenting.
 
@@ -67,7 +70,6 @@ with phthalates leaching into lower pH products such as soda and vinegar more re
 For large-scale fermentation, wooden barrels make excellent vessels.
 Wood grains definitely harbor microbes, but lactic acid bacteria on all vegetables easily dominate the protected environment under the brine.
 
-
 **Alternative fermentation vessels**
 
 Gourds
@@ -76,17 +78,15 @@ Baskets (e.g.tempeh)
 
 Pits (Arctic regions, Himalaya) – starchy vegg, cabbage - > food preservation
 
-
 **Other gizmo**
 
 Pickle presses (juicing)
 
 Cider and grape presses
 
-- but you can always improvise. With grapes, you can crush them with your (scrubbed) feet in a tub
+But you can always improvise. With grapes, you can crush them with your (scrubbed) feet in a tub
 
 Grain mill to crack beans for tempeh, grains for porridges and beers
-
 
 **Alcohol fermentation gizmo**
 
