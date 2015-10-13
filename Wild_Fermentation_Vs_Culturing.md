@@ -28,6 +28,7 @@ Culturing usually means that a microbial starter of some has been introduced.
 
 
 **Community Evolution and Succession**
+
 Microbial communities are dynamic and always shifting.
  
 Yet in some cases they exhibit extraordinary stability over time. “Compounds made by a mixture of microorganisms often complement each other and work to the exclusion of unwanted microorganisms,”
@@ -68,6 +69,7 @@ Boil the water in an open pot; the chlorine will evaporate. The only drawback of
 
 
 **Salt**
+
 Standard table salt in the United States has iodine added, to replace the iodine and other minerals stripped out of it, 
 as well as various chemical anti-caking agents.
 
@@ -80,10 +82,12 @@ Lactic acid bacteria seem tolerant to a wide variety of salts, including iodized
 In most ferments, including vegetables, salting can be done to taste, without any need for measuring.
  
 **Brine method**
+
 5 percent weight of water,* or roughly 3 tablespoons/quart
 For quick reference, water weighs approximately 2 pounds per quart/1 kg per liter
 
 **Darkness and Sunlight**
+
 Fermentation is generally practiced protected from direct sunlight
 Some traditions of cucumber pickling, often the rationale is that the sunlight, hitting the surface of the ferment directly,
 prevents surface molds and thus creates an advantageous selective environment.
